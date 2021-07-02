@@ -1,0 +1,21 @@
+{
+  "store.home": { 
+    "blocks": ["rich-text", "rich-text#left"]
+  },
+  "rich-text": { 
+    "props": { 
+      "text": "VTEX Store Framework",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  },
+  "rich-text#left" : {
+    "props" :{
+      "text":"vtex",
+      "textAlignment":"CENTER",
+      "textPosition": "RIGHT",
+      "font": "t-heading-2"
+    }
+  }
+}
